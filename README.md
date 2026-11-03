@@ -3,6 +3,9 @@ Open-source hardware repo for the Glider Swift.
 
 Hello my fellow fiber enthusiasts.  Here you will find all files needed to reproduce parts for the Alpenglow Glider Swift.  It's all under a permissive CERN Open Hardware License v2, the text of which is included in this repo.  It does require attribution, so if you make something with these files, give a shout-out to Alpenglow Industries.  
 
+Swifts can still be seen [here](https://www.alpenglowindustries.com/pages/swifts) and scroll through [the instagram grid](https://www.instagram.com/alpenglowyarn/).\
+The [Alpenglow YouTube channel](https://www.youtube.com/watch?v=Ex5Rqcc_ZRY&list=PLGswnsgctcE1kVJRuRwE17Jd6YZVE9F_2) has videos on repair.
+
 Note that we were purchasing parts and materials in large batches, so our sources that are listed in the [Swift BOM spreadsheet](AlpenglowSwiftBOM.xlsx) may or may not be relevant for you.  Use it as a starting point.  The ReadMe docs in each folder will have more info about the parts that folder describes.  Below is a discussion of some design choices and manufacturing considerations.
 
 ## Replacement Struts
