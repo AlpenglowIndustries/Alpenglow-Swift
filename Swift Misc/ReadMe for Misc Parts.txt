@@ -1,0 +1,4 @@
+
+The "Swift Washer" are for the 2 washers installed above and below the top hub.  Our original nylon washers we bought from McMaster were nice and white, they later switched material or something and were a yellowy off-white which looked like shit with our nice white hubs.  So we ended up cutting our own white ones out of Delrin, which was always very white in color.  I know, probably no one would have noticed or cared, but I did.
+
+The "Strut Ties" are more commonly known as computer fan mounts or fan mount rivets.  These particular ones are made by Kang Yang International.  I reached out directly to them, they were willing to shoot them in white for me, min order was 10,000 pieces.  This was still way cheaper than having a custom part molded, so I did that and ordered black ones as needed from Digi-Key or other suppliers.
