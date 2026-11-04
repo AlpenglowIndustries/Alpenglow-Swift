@@ -1,6 +1,9 @@
 # Alpenglow-Swift
 Open-source hardware repo for the Glider Swift.
 
+<img width="600" height="600" alt="IMG_6503" src="https://github.com/user-attachments/assets/1f3a710f-8033-45e3-b416-801db289c8af" />
+
+
 Hello my fellow fiber enthusiasts.  Here you will find all files needed to reproduce parts for the Alpenglow Glider Swift.  It's all under a permissive CERN Open Hardware License v2, the text of which is included in this repo.  It does require attribution, so if you make something with these files, give a shout-out to Alpenglow Industries.  
 
 Swifts can still be seen [here](https://www.alpenglowindustries.com/pages/swifts) and scroll through [the instagram grid](https://www.instagram.com/alpenglowyarn/).\
