@@ -1,0 +1,44 @@
+Line,,Type,Qty,Description,Manufacturer,Man Part No,Supplier,Supplier Part No,Supplier Link,Other Notes
+1,WHT,HDWE-CLAMP,1,Clamp,Alpenglow,,Dongguan Oukai Electronics Co Ltd,,https://pdok.en.alibaba.com/index.html,contact: Kathy Huang
+2,BLK,HDWE-CLAMP,1,Clamp,Alpenglow,,Dongguan Oukai Electronics Co Ltd,,https://pdok.en.alibaba.com/index.html,contact: Kathy Huang
+3,WHT,HDWE-RINGS,12,"Fan mount, silicone, long-nose, white, custom ordered",Kang Yang,KYI-BUB-66G(W),Kang Yang,KYI-BUB-66G(W),https://www.kangyang-usa.com/product/bub-66/,
+4,BLK,HDWE-RINGS,12,"Fan mount, silicone, long-nose, black",Kang Yang,KYI-BUB-66G,DigiKey,KYI-BUB-66G,https://www.digikey.com/en/products/detail/kang-yang-international/KYI-BUB-66G/13178709,
+5,WHT,HDWE-POSTS,6,"White snap rivet, retainer",Essentra Components,27MRF09,DigiKey,RPC7056-ND,available either at Digi-Key or direct from Essentra,"""Small Hole"" version"
+6,WHT,HDWE-POSTS,6,"White snap rivet, barbed post",Essentra Components,27MRM090312,DigiKey,RPC7041-ND,available either at Digi-Key or direct from Essentra,"""Small Hole"" version"
+7,BLK,HDWE-POSTS,6,"Black snap rivet, retainer",Essentra Components,27MRF09B,DigiKey,RPC7055-ND,available either at Digi-Key or direct from Essentra,"""Small Hole"" version"
+8,BLK,HDWE-POSTS,6,"Black snap rivet, barbed post",Essentra Components,27MRM090312B,DigiKey,RPC7040-ND,available either at Digi-Key or direct from Essentra,"""Small Hole"" version"
+9,WHT,HDWE-WASHER,2,"0.74"" OD x 0.34"" ID x 0.062"" thick nylon washer for 5/16"" screw size, white",McMaster-Carr,90295A460,McMaster-Carr,90295A460,www.mcmaster.com,
+10,BLK,HDWE-WASHER,2,"0.74"" OD x 0.34"" ID x 0.062"" thick nylon washer for 5/16"" screw size, black",McMaster-Carr,90295A460,McMaster-Carr,90295A460,www.mcmaster.com,
+11,WHT,PART-FINIAL,1,"dual color petg finial printed, white.  White and Purple PETG is Bambu brand.",Alpenglow,,Alpenglow,,,we printed these in-house because of the dual color
+12,BLK,PART-FINIAL,1,"dual color petg finial printed, black.  Black and Purple PETG is Bambu brand.",Alpenglow,,Alpenglow,,,we printed these in-house because of the dual color
+13,WHT,PART-HUB,1,"Top Top, white, ABS",Alpenglow,,Corvallis3D,,https://corvallis3d.com/,
+14,BLK,PART-HUB,1,"Top Top, black, ABS",Alpenglow,,Corvallis3D,,https://corvallis3d.com/,
+15,WHT,PART-HUB,1,"Top Bottom Assy, white, ABS",Alpenglow,,Corvallis3D,,https://corvallis3d.com/,
+16,BLK,PART-HUB,1,"Top Bottom Assy, black, ABS",Alpenglow,,Corvallis3D,,https://corvallis3d.com/,
+17,WHT,PART-HUB,1,"Bot Top, white, ABS",Alpenglow,,Corvallis3D,,https://corvallis3d.com/,
+18,BLK,PART-HUB,1,"Bot Top, black, ABS",Alpenglow,,Corvallis3D,,https://corvallis3d.com/,
+19,WHT,PART-HUB,1,"Bot Bottom Assy, white, ABS",Alpenglow,,Corvallis3D,,https://corvallis3d.com/,
+20,BLK,PART-HUB,1,"Bot Bottom Assy, black, ABS",Alpenglow,,Corvallis3D,,https://corvallis3d.com/,
+21,WHT,PART-HUB,1,"Raising Collar white, ABS",Alpenglow,,Corvallis3D,,https://corvallis3d.com/,
+22,BLK,PART-HUB,1,"Raising Collar, black, ABS",Alpenglow,,Corvallis3D,,https://corvallis3d.com/,
+23,BOTH,PART-HUB,1,"Linear slide bearing, MJF printed, grey",Alpenglow,,Streamline3D,,https://www.streamline-3d.com/,
+24,BOTH,HDWE-RINGS,2,"6.3"" long / 2"" diameter, 2.0mm uncoated stainless steel cable screw-lock key rings",Millenial Essentials,,Amazon,B07R9M5RXT,https://www.amazon.com/dp/B07B93BP3R,alternate: https://www.amazon.com/dp/B088WP8TZB
+25,BOTH,HDWE-RINGS,1,"21mm external retaining ring, single turn spiral, stainless",Smalley,VSM-21,Smalley,VSM-21,https://www.smalley.com/ring/vsm-21,
+26,BOTH,HDWE-SCREW,6,"#6 flat-head phillips thread-forming screws for brittle plastic, 1/2""L",McMaster-Carr,96068A153,McMaster-Carr,96068A153,www.mcmaster.com,
+27,BOTH,HDWE-SCREW,1,"#6 Rounded Head Blunt Screws for Sheet Metal, 18-8 Stainless Steel, Number 6 Size, 3/16"" Long",McMaster-Carr,92525A308,McMaster-Carr,92525A308,www.mcmaster.com,
+28,BOTH,HDWE-SHAFT COLLAR,1,12mm ID x 30mm OD x 10mm thick dual split shaft collar with screws,QX Hardware Factory Store,SSH12-30-10(2PCS),AliExpress,3256805261735830,https://www.aliexpress.us/item/3256805261735836.html,
+29,BOTH,HDWE-SPRING,1,"0.25"" OD, 0,198"" ID, 0.75"" long, 0.026"" wire dia, 7.82 lbs/in compression spring, 302 stainless",WB Jones,4037,WB Jones,4037,https://www.springsfast.com/products/compression-springs/part-detail-compression-spring/?part=4037,
+30,BOTH,PART-HUB,1,"Clip Plate, 6061-T6 aluminum 0.06"" thick, tumbled finish",Alpenglow,,Ponoko,,https://www.ponoko.com/,
+31,BOTH,PART-SHAFT,1,"6061-T6 AL rod, 19"" long, 5/16"" threaded one end, plain other end",Alpenglow,,Elco Machine Co.,,https://www.elco-machine.com/,
+32,BOTH,PART-STRUT,24,"Acrylic, 3mm thick, 14.25""L x 0.75""W struts",Alpenglow,,See Acrylic Color Guide sheet,,,See Acrylic Color Guide sheet
+33,BOTH,SHIPPING,1,"4.5 x 4.5 x 24 inch shipping box, double-wall cardboard, custom made",Alpenglow,,Albany Box Company,,https://albanyboxcompany.com/,
+34,BOTH,SHIPPING,1,"Canvas tote bag, Alpenglow branded",Alpenglow,,"Dongguan Dirk Bags Co., Ltd.",,https://dekehandbag.en.alibaba.com/contactinfo.html,"contact: Peter Qiu, dirkbags@163.com"
+35,BOTH,SHIPPING,1,Instructions card,Alpenglow,,ASAP Reprographics,,https://asapreprographics.com/,
+,,,,,,,,,,
+,,,,,,,,,,
+,,Alternates:,,,,,,,,
+9,,HDWE-WASHER,0.028,"0.032"" thick delrin sheet, white",Alpenglow,,McMaster-Carr,8573K281,www.mcmaster.com,
+10,,HDWE-WASHER,0.028,"0.032"" thick delrin sheet, black",Alpenglow,,McMaster-Carr,8575K131,www.mcmaster.com,
+"5, 6, 7, 8",,HDWE-POSTS,6,"Sets of plastic binding posts and screws, push/snap-in style, 1/4"" L, black or white",McMaster-Carr,90249A610,McMaster-Carr,90249A610,www.mcmaster.com,"""Big Hole"" version"
+"5, 6, 7, 8",,HDWE-POSTS,6,"Sets of plastic binding posts and screws, push/snap-in style, 1/4"" L, white",PopCo,SPLU-250SET/W,PopCo,SPLU-250SET/W,https://www.popco-usa.com/p/white-push-lock-screws-small-head/?attribute_pa_length=1-4&attribute_pa_head=unslotted,"""Big Hole"" version"
+"5, 6, 7, 8",,HDWE-POSTS,6,"Sets of plastic binding posts and screws, push/snap-in style, 1/4"" L, black",PopCo,SPLU-250SET/B,PopCo,SPLU-250SET/W,https://www.popco-usa.com/p/black-push-lock-screws-small-head/?attribute_pa_length=1-4&attribute_pa_head=unslotted,"""Big Hole"" version"
