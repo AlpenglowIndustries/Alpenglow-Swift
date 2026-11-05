@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="349.250mm" height="19.050mm" viewBox="45.196747 276.692352 349.250000 19.049988">
+    <circle transform="matrix(-0,1,1,0,219.821747,286.217346)" style="stroke:#ff8000;stroke-width:0.050000mm;fill:none" r="1.206491" cx="0" cy="0"/>
+    <circle transform="matrix(-0,1,1,0,51.546738,286.217346)" style="stroke:#ff8000;stroke-width:0.050000mm;fill:none" r="2.032" cx="0" cy="0"/>
+    <circle transform="matrix(-0,1,1,0,388.096741,286.217346)" style="stroke:#ff8000;stroke-width:0.050000mm;fill:none" r="2.032" cx="0" cy="0"/>
+    <path transform="matrix(-0,1,1,0,219.821747,286.217346)" style="stroke:#ff0000;stroke-width:0.050000mm;fill:none" d="M-6.194311,-169.516388C-5.710716,-172.462601,-3.164441,-174.625,-0.17881,-174.625L0.254,-174.625C3.247961,-174.625,5.798756,-172.450821,6.273029,-169.494659L9.525,-149.224991L9.525,149.224991L6.273029,169.494659C5.798756,172.450821,3.247961,174.625,0.254,174.625L-0.17881,174.625C-3.164441,174.625,-5.710716,172.462601,-6.194311,169.516388L-9.525,149.224991L-9.525,-149.224991L-6.194311,-169.516388z"/>
+</svg>
